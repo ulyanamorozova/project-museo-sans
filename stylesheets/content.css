@@ -1,7 +1,15 @@
 body {
   margin: 0;
   font-family: "Museo Sans", sans-serif;
-  background-color: #D8D8D8;
+  background-color: #white;
+  position: relative;
+}
+.main {
+  width: 1440px;
+  background: #D8D8D8;
+  margin: 0 auto;
+  display: block;
+  position: relative;
 }
 .bag {
   background-image: url('images/первая1.svg');
@@ -123,11 +131,10 @@ body {
   margin-top: 50px;
 }
 .tex {
+  width: 1440px;
   font-size: 70px;
   color: black;
   font-weight: 500;
-  margin-left: -80px;
-  margin-right: -80px;
 }
 .green{
   margin-top: -830px;
