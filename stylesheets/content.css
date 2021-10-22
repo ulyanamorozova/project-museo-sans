@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  font-family: "Museo Sans", sans-serif;
+  background-color: #D8D8D8;
+}
+.bag {
+  background-image: url('images/первая1.svg');
+  background-repeat: no-repeat;
+  height: 1450px;
+}
+.bag p {
+  font-size: 28px;
+  color: #E3FF34;
+  margin-left: 53px;
+  font-weight: 500;
+  padding-top: 1079px;
+}
+.triples img{
+  margin-top: 70px;
+  margin-left: 48px;
+}
+.differenza {
+  margin-left: 167px;
+  margin-top: 270px;
+  font-size: 28px;
+  font-weight: 600;
+  color: black;
+}
+.lecas{
+  margin-left: 0px;
+  margin-top: 61px;
+  font-size: 28px;
+  font-weight: 300;
+  color: black;
+}
+.kun{
+  margin-left: 0px;
+  margin-top: 61px;
+  font-size: 28px;
+  font-weight: 900;
+  color: black;
+}
+.yas {
+  margin-left: 570px;
+  margin-top: -757px;
+  font-size: 28px;
+  font-weight: 100;
+  color: black;
+}
+.lan {
+  margin-left: 570px;
+  margin-top: -5px;
+  font-size: 70px;
+  font-weight: 500;
+  color: black;
+}
+.and {
+  margin-left: 890px;
+  margin-top: -810px;
+  font-size: 28px;
+  font-weight: 300;
+  font-style: italic;
+  color: black;
+}
+.house{
+  background-image: url('images/house.svg');
+  background-repeat: no-repeat;
+  margin-top: 103px;
+  height: 946px;
+}
+.instruction {
+  margin-top: 100px;
+  margin-left: 65px; ;
+}
+.iron {
+  margin-left: 75px;
+  margin-top: -660px;
+  font-size: 70px;
+  font-weight: 100;
+  color: #E3FF34;
+}
+.dry {
+  margin-left: 75px;
+  margin-top: -60px;
+  font-size: 70px;
+  font-weight: 300;
+  color: #E3FF34;
+}
+.wash {
+  margin-left: 75px;
+  margin-top: -60px;
+  font-size: 70px;
+  font-weight: 500;
+  color: #E3FF34;
+}
+.medium {
+  margin-left: 75px;
+  margin-top: 40px;
+  font-size: 70px;
+  font-weight: 700;
+  color: #E3FF34;
+}
+.ca {
+  margin-left: 75px;
+  margin-top: -60px;
+  font-size: 70px;
+  font-weight: 900;
+  color: #E3FF34;
+}
+.numbers {
+  margin-top: 120px;
+  margin-left: 65px;
+}
+.nos {
+  margin-top: 50px;
+  margin-left: 65px;
+}
+.zas {
+  font-size: 28px;
+  color: black;
+  margin-left: 65px;
+  font-weight: 500;
+  margin-top: 50px;
+}
+.tex {
+  font-size: 70px;
+  color: black;
+  font-weight: 500;
+  margin-left: -80px;
+  margin-right: -80px;
+}
+.green{
+  margin-top: -830px;
+}
+.boots {
+  margin-top: 130px;
+}
+.musix {
+  font-size: 28px;
+  color: black;
+  margin-left: 65px;
+  font-weight: 500;
+  margin-top: 50px;
+}
+.rectangle {
+  width: 1440px;
+  height: 170px;
+  background: black;
+  margin-top: 60px;
+}
+.rectangle p {
+  font-size: 28px;
+  color: #E3FF34;
+  margin-left: 540px;
+  font-weight: 500;
+  padding-top: 60px;
+}
